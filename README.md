@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+#Landing Test Task
+
+This repository contains my solution for the Landing Test Task. The goal of the task is to create a landing page using HTML, CSS, SASS (SCSS), BEM methodology, CSS Flexbox, and CSS Grid.
+
+Technologies Used:
+HTML
+CSS
+SASS (SCSS)
+BEM (Block Element Modifier) methodology
+CSS Flexbox
+CSS Grid
